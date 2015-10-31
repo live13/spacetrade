@@ -1,5 +1,6 @@
 logs
 public
+dist
 target
 node_modules/
 bower_components/
