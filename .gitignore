@@ -1,10 +1,13 @@
 logs
 public
 target
+node_modules/
+bower_components/
 /.idea
 /.idea_modules
 /.sbtserver
 /.classpath
 /.project
 /.settings
+/.tmp
 /RUNNING_PID
