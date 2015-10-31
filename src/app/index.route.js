@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('gulpangular')
+    .module('spacetrade')
     .config(routerConfig);
 
   /** @ngInject */

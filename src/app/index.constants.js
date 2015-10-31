@@ -3,8 +3,6 @@
   'use strict';
 
   angular
-    .module('gulpangular')
-    .constant('malarkey', malarkey)
-    .constant('moment', moment);
+    .module('spacetrade')
 
 })();

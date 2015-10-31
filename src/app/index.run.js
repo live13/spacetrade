@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('gulpangular')
+    .module('spacetrade')
     .run(runBlock);
 
   /** @ngInject */
