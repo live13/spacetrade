@@ -1,0 +1,10 @@
+logs
+public
+target
+/.idea
+/.idea_modules
+/.sbtserver
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
